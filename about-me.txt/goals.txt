@@ -1,3 +1,5 @@
 Goals: Learn git
 Use GitHub
 Manage virgins
+Build a perfect website using notepad++
+Enjoy college
